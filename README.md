@@ -19,7 +19,7 @@
 1.	Crear un directorio local llamado create-thumbnail-lambda
 2.	Abrir la consola o terminal dentro del directorio
 3.	Ejecutar comando npm init
-4.	Crear archivo index.js con el código: [inde.js](https://github.com/jriverox/create-thumbnail-lambda/blob/master/index.js)
+4.	Crear archivo index.js con el código: [index.js](https://github.com/jriverox/create-thumbnail-lambda/blob/master/index.js)
 5.	Ejecutar el siguiente comando para instalar los paquetes necesarios:
     - `npm install --arch=x64 --platform=linux --target=10.15.0 sharp`
 6.	Crear un archivo .zip con todo el contenido del directorio (desde dentro del directorio)
