@@ -1,0 +1,30 @@
+{
+  "name": "create-thumbnail-lambda",
+  "version": "1.0.0",
+  "description": "AWS Lambda demo using Node.js to generate Thumbnail of images uploaded to an S3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jriverox/create-thumbnail-lambda.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "aws",
+    "s3",
+    "thumbnail",
+    "node.js"
+  ],
+  "author": "Jhony Rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jriverox/create-thumbnail-lambda/issues"
+  },
+  "homepage": "https://github.com/jriverox/create-thumbnail-lambda#readme",
+  "dependencies": {
+    "sharp": "^0.23.1"
+  }
+}
