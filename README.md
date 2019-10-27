@@ -42,7 +42,7 @@
 2.	Seleccionar opción Create new test event
 3.	En la lista de Event template seleccionar Amazon S3 Put
 4.	Se deberá modificar los siguientes valores
-(./s3-event-sample.png)
+(s3-event-sample.png)
     - bucket.name = nombre del bucket origen creado en la sección Crear un Bucket en S3 y subir imagen punto 2.a
     - bucket.arn: `arn:aws:s3:::xxx` (sustituir las xx con el valor del punto anterior)
     - object.key: nombre del archivo subido al bucket
